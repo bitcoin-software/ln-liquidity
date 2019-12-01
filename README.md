@@ -8,11 +8,11 @@ List of exchange services to make coin swaps LN &lt;-> onchain &amp; more
 - [fixedfloat.com](https://fixedfloat.com) - Bitcoin & Altcoin to LN and vice versa.
 - [zigzag.io](https://zigzag.io) - Bitcoin & Altcoin to LN and vice versa.
 - [boltz.exchange](https://boltz.exchange) - Trust-less atomic swaps: BTC, LTC & Lightning supported.
-- [bitflash.club](https://bitflash.club) - Batch multiple LN txs into single LN tx via API [99 sats per swap]
+- [bitflash.club](https://bitflash.club) - Batch multiple LN txs into single on-chain tx via API [99 sats per swap]
 - [submarineswaps.org](https://submarineswaps.org) - Trust-less atomic swaps
 
 # Not tested
-- coinplaza.it
+- coinplaza.itin case someon
 - ion.radar.tech/redshift
 - getsatoshi.org
 - buda.com
