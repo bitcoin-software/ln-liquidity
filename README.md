@@ -22,6 +22,6 @@ List of exchange services to make coin swaps LN &lt;-> onchain &amp; more
 - yobit.net
 - lightning.bitflyer.com
 
-# Another list of exchange services maintained by RADAR ION
+## Another list of exchange services maintained by RADAR ION
 
 https://wiki.ion.radar.tech/tutorials/lightning-exchanges
