@@ -20,7 +20,6 @@ List of exchange services to make coin swaps LN &lt;-> onchain &amp; more
 - vaultoro.com
 - graaf.one
 - mercuriex.com
-- yobit.net
 - lightning.bitflyer.com
 
 ## Another list of exchange services maintained by RADAR ION
