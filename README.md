@@ -10,6 +10,7 @@ List of exchange services to make coin swaps LN &lt;-> onchain &amp; more
 - [boltz.exchange](https://boltz.exchange) - Trust-less atomic swaps: BTC, LTC & Lightning supported.
 - [bitflash.club](https://bitflash.club) - Batch multiple LN txs into single on-chain tx via API [99 sats per swap]
 - [submarineswaps.org](https://submarineswaps.org) - Yet another swap service
+- [BitFinex](https://www.bitfinex.com/) - cryptocurrency exchange with LN support. Internal wallet conversion LN<->onchain.
 
 # Not tested
 - coinplaza.itin case someon
