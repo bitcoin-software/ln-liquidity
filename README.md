@@ -11,6 +11,7 @@ List of exchange services to make coin swaps LN &lt;-> onchain &amp; more
 - [bitflash.club](https://bitflash.club) - Batch multiple LN txs into single on-chain tx via API [99 sats per swap]
 - [submarineswaps.org](https://submarineswaps.org) - Yet another swap service
 - [BitFinex](https://www.bitfinex.com/) - cryptocurrency exchange with LN support. Internal wallet conversion LN<->onchain.
+- [SouthXchange](https://www.southxchange.com) - cryptocurrency exchange with LN support
 
 # Not tested
 - coinplaza.itin case someon
